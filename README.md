@@ -21,14 +21,14 @@ To run the analysis, you need to have Python installed along with the necessary 
    
 2. **Install required libraries**:
 You can install the necessary libraries by running:
-```bash
-  pip install pandas numpy matplotlib seaborn folium
-```
+   ```bash
+   pip install pandas numpy matplotlib seaborn folium
+
 3. **Run the Jupyter Notebook**:
 Start the Jupyter Notebook by executing:
-```bash
-  jupyter notebook 911_Call_Analysis.ipynb
-```
+   ```bash
+   jupyter notebook 911_Call_Analysis.ipynb
+
 
 ## Data Description
 MontcoAlert.csv: Contains 911 call data from Montgomery County, PA. The dataset includes information on call types, zip codes, timestamps, and the corresponding emergency services (EMS, Fire, Traffic).
