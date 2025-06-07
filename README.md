@@ -5,19 +5,21 @@ Analysis of 911 emergency call data from Montgomery County, Pennsylvania, to opt
 This project analyzes 911 emergency call data from Montgomery County, PA, to identify patterns and trends in emergency services. The goal is to optimize resource allocation, improve response times, and enhance overall public safety through data-driven insights.
 
 ## Project Structure
+```
 Montgomery-County-911-Emergency-Call-Analysis/
 ├── Data/
 │   └── MontcoAlert.csv         # 911 call data from Montgomery County
 ├── 911_Call_Analysis.ipynb     # Jupyter Notebook with analysis
 └── README.md                   # Project overview and instructions
+```
 
 ## Installation and Setup
 To run the analysis, you need to have Python installed along with the necessary libraries. You can set up your environment by following these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Montgomery-County-911-Emergency-Call-Analysis.git
-   cd Montgomery-County-911-Emergency-Call-Analysis
+   git clone https://github.com/1bytess/analyzing-911-calls
+   cd analyzing-911-calls
    
 2. **Install required libraries**:
 You can install the necessary libraries by running:
